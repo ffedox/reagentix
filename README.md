@@ -8,4 +8,4 @@ AI-powered HealthTech project exploring intelligent solutions for healthcare com
 - Web technologies
 
 ## Demo
-[https://reagentix.netlify.app/)](https://reagentix.netlify.app/)
+[https://reagentix.netlify.app/)](https://reagentix.netlify.app/
