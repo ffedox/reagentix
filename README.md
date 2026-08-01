@@ -7,5 +7,5 @@ AI-powered HealthTech project exploring intelligent solutions for healthcare com
 - AI/ML workflows
 - Web technologies
 
-## Demo
-[https://reagentix.netlify.app/](https://reagentix.netlify.app/)
+## Netlify
+Demo: https://reagentix.netlify.app/
